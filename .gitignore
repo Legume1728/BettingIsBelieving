@@ -1,0 +1,17 @@
+testresults
+PostExp
+PythonExcercises
+PythonExperiments
+*.pyc
+*.pdf
+*~
+*.log
+*.conf
+clientScriptsAlt
+clientScriptsNew
+pywebsocket-read-only
+readCookie.wsgi
+setCookie.wsgi
+myapp2.wsgi
+Betting/views
+backup
